@@ -73,7 +73,7 @@ nav
 {
     width: 100% ;
     font-family:'monospace',console;
-    color:lightblue
+    color:lightblue;
     font-size: 15px;
     background-color:pink;
 }
@@ -88,7 +88,7 @@ nav
 {
     width: 90% ;
     font-family:'monospace',console;
-    color:lightblue
+    color:lightblue;
     font-size: 12px;
     background-color:yellow;
 }
