@@ -64,3 +64,29 @@ nav
 {
     font-family:'monospace',courier new;
 }
+
+@media only screen and (min-width: 600 px)
+{
+
+	
+.Allfont
+{
+    width: 100% ;
+    font-family:'monospace',console;
+    color:blue
+}
+
+	
+}
+
+@media only screen and (min-width: 900 px)
+{
+
+.Allfont
+{
+    width: 90% ;
+    font-family:'monospace',console;
+    color:lightblue
+}
+	
+}
