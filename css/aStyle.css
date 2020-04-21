@@ -1,0 +1,66 @@
+html 
+{
+   background-color: #FFF8DC;
+}
+
+nav
+{
+        display: flex;
+	height: 10%;
+        width: 100%;
+	justify-content:center;
+	align-items: center;
+	background-color: #FAFAD2;
+        background-image: url(satin-nuss.jpg);
+        background-position: center;
+        background-size: cover;
+	
+}
+
+.pages li
+{
+  list-style: none ;
+  background-color: #f5fffa; 
+  display: inline-block;
+  line-height: 30px;
+}
+
+.pages li a
+{
+    padding: 20px;
+    text-decoration: none;
+    font-family:'Orbitron', 'sans-serif';
+    font-size: 15px;
+    color: darkblue;
+    display:block;
+}
+
+.pages li a.active
+{
+    color:darkblue;
+    background-color: #FAFAD2;
+}
+
+.pages li a:hover
+{
+    color: lightblue;
+}
+
+.Allfont
+{
+    width: 80% ;
+    font-family:'monospace',console;
+    color:darkblue
+}
+
+.AllfontFixed
+{
+    width: 700px;
+    font-family:'monospace',console;
+    color:darkblue
+}
+
+.title
+{
+    font-family:'monospace',courier new;
+}
