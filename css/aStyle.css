@@ -69,16 +69,15 @@ nav
 @media only screen and (min-width: 600px)
 
 {
-	
+
 .Allfont
 {
-    width: 100% ;
+    width: 95% ;
     font-family:'monospace',console;
-    color:lightblue;
-    font-size: 15px;
-    background-color:pink;
+    color:darkblue
 }
 
+	
 .title
 {
     font-family:'monospace',courier new;
@@ -91,13 +90,15 @@ nav
 {
 	
 
-
 .Allfont
 {
-    width: 95% ;
+    width: 100% ;
     font-family:'monospace',console;
-    color:darkblue
+    color:lightblue;
+    font-size: 15px;
+    background-color:pink;
 }
+
 
 	
 .title
