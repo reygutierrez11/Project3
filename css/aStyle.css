@@ -48,11 +48,12 @@ nav
 
 .Allfont
 {
-    width: 95% ;
+    width: 90% ;
     font-family:'monospace',console;
-    color:darkblue
+    color:lightblue;
+    font-size: 12px;
+    background-color:yellow;
 }
-
 .AllfontFixed
 {
     width: 700px;
@@ -89,13 +90,13 @@ nav
 
 {
 	
+
+
 .Allfont
 {
-    width: 90% ;
+    width: 95% ;
     font-family:'monospace',console;
-    color:lightblue;
-    font-size: 12px;
-    background-color:yellow;
+    color:darkblue
 }
 
 	
