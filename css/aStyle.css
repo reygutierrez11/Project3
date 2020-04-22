@@ -78,6 +78,10 @@ nav
     background-color:pink;
 }
 
+.title
+{
+    font-family:'monospace',courier new;
+}
 	
 }
 
@@ -92,5 +96,12 @@ nav
     font-size: 12px;
     background-color:yellow;
 }
+
+	
+.title
+{
+    font-family:'monospace',courier new;
+}
+	
 	
 }
