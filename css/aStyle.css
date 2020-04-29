@@ -48,7 +48,7 @@ nav
 
 .Allfont
 {
-    width: 1200px ;
+    width: 100% ;
     font-family:'monospace',console;
     color:darkblue
 }
