@@ -48,9 +48,9 @@ nav
 
 .Allfont
 {
-    background-color: #DEB887;
-    font-family:'monospace',console;
-    color:lightblue;
+    background-color: #FFE4E1;
+    font-family:"Arial Black", Gadget, sans-serif;
+    color:deepskyblue;
     width:100%;
 }
 
@@ -65,7 +65,7 @@ nav
 
 .title
 {
-    font-family:'monospace',courier new;
+    font-family:"Arial Black", Gadget, sans-serif;
 }
 
 @media only screen and (min-width: 600px)
@@ -74,17 +74,17 @@ nav
 
 .Allfont
 {
-    font-family:'monospace',console;
+    font-family:"Trebuchet MS", Helvetica, sans-serif;
     color:blue;
     font-size: 24px;
-    background-color:#FFDEAD;
+    background-color:#FFF5EE;
     width:100%;
 }
 
 	
 .title
 {
-    font-family:'monospace',courier new;
+    font-family:"Trebuchet MS", Helvetica, sans-serif;
 }
 	
 }
@@ -111,4 +111,3 @@ nav
 }
 	
 }	
-
