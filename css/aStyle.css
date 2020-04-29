@@ -196,6 +196,21 @@ nav
   animation-duration: 1.5s;
 }
 
+#1 img
+{
+    width: 100%
+}
+
+#2 img
+{
+    width: 100%
+}
+
+#3 img
+{
+    width: 100%
+}
+
 @-webkit-keyframes fade {
   from {opacity: .4}
   to {opacity: 1}
