@@ -49,7 +49,8 @@ nav
 .Allfont
 {
     font-family:'monospace',console;
-    color:darkblue
+    color:darkblue;
+    width:100%;
 }
 
 
@@ -76,6 +77,7 @@ nav
     color:blue;
     font-size: 24px;
     background-color:yellow;
+    width:100%;
 }
 
 	
@@ -96,7 +98,8 @@ nav
     font-family:'monospace',console;
     color:lightblue;
     font-size: 20px;
-    background-color:green;
+    background-color:#FAFAD2;
+    width:100%;
 }
 
 
